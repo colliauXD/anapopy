@@ -1,0 +1,7 @@
+Anapopy
+###################################################
+#Tools for population wide analysis of simulations#
+#Based on Neurotools@neuralensemble and sklearn   #
+###################################################
+- clust: get clusters from spike list
+- lyap: make attractor reconstruction and extract elevant measures
