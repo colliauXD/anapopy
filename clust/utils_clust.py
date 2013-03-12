@@ -33,4 +33,3 @@ def get_cc_mat(s,NS,tb=25):
         cc_mat[rev_idx[p.pairs[i][0]],rev_idx[p.pairs[i][1]]]=cc[i]
         cc_mat[rev_idx[p.pairs[i][1]],rev_idx[p.pairs[i][0]]]=cc[i]
    return cc_mat 
-  
