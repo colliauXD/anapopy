@@ -1,9 +1,0 @@
-import numpy as np
-import scipy as sc
-
-def get_peak_vt(sig,thresh):
-   a = np.diff(np.sign(np.diff(MI[:,1]))).nonzero()[0] + 1 
-   loc_min = (np.diff(np.sign(np.diff(MI[:,1]))) > 0).nonzero()[0] + 1 
-
-
-R=
